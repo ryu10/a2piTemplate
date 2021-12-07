@@ -1,0 +1,8 @@
+*.o
+*.po
+# ca65 map file
+*.map
+
+src/asmHello/build
+src/cHello/build
+src/cHello/build
